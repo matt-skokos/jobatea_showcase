@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Jobatea batea mark</title>
+  <desc id="desc">A minimal circular gold-panning pan with a single gold fleck.</desc>
+  <rect width="128" height="128" rx="28" fill="#173F36"/>
+  <circle cx="64" cy="64" r="35" fill="none" stroke="#E8EFE9" stroke-width="7"/>
+  <path d="M37 71c11 12 43 12 54 0" fill="none" stroke="#E8EFE9" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="76" cy="51" r="5" fill="#D6A84B"/>
+</svg>

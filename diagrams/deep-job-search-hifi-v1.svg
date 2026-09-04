@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Jobatea high-fidelity Deep Job Search screen</title>
+  <desc id="desc">A polished desktop research workspace in the Moss and Mineral visual system showing profile completion, guidance, a running research placeholder, and recent searches.</desc>
+  <style>
+    .canvas{fill:#F4F6F2}.side{fill:#173F36}.top{fill:#FFFFFF}.surface{fill:#FFFFFF;stroke:#D8E1DB;stroke-width:1}.raised{fill:#FBFCFA;stroke:#D8E1DB;stroke-width:1}.moss-soft{fill:#E7F1EB}.gold-soft{fill:#FFF6E5}.primary{fill:#17634F}.rule{stroke:#D8E1DB;stroke-width:1}.ink{fill:#18302A}.muted{fill:#60736A}.white{fill:#FFFFFF}.gold{fill:#C49332}.success{fill:#287A5D}.h1{font:600 28px 'Source Sans 3',Arial,sans-serif}.h2{font:600 16px 'Source Sans 3',Arial,sans-serif}.body{font:400 14px 'Source Sans 3',Arial,sans-serif}.small{font:400 12px 'Source Sans 3',Arial,sans-serif}.label{font:600 11px 'IBM Plex Mono',monospace;letter-spacing:.6px}.nav{font:400 14px 'Source Sans 3',Arial,sans-serif}.nav-active{font:600 14px 'Source Sans 3',Arial,sans-serif}.button{font:600 14px 'Source Sans 3',Arial,sans-serif}.mono{font:400 11px 'IBM Plex Mono',monospace}.caption{font:400 11px 'Source Sans 3',Arial,sans-serif}
+  </style>
+  <rect class="canvas" width="1440" height="1024"/>
+  <rect class="side" width="248" height="1024"/>
+  <rect class="top" x="248" width="1192" height="64"/>
+  <line x1="248" y1="64" x2="1440" y2="64" class="rule"/>
+  <!-- mark -->
+  <rect x="28" y="22" width="32" height="32" rx="9" fill="#E7F1EB"/>
+  <circle cx="44" cy="38" r="10" fill="none" stroke="#17634F" stroke-width="2.5"/>
+  <path d="M36 40.5c3.5 4 12.5 4 16 0" fill="none" stroke="#17634F" stroke-width="2.3" stroke-linecap="round"/>
+  <circle cx="48" cy="34" r="1.8" class="gold"/>
+  <text x="72" y="44" class="h2 white">Jobatea</text>
+  <text x="28" y="102" class="label" fill="#B8CEC3">WORKSPACE</text>
+  <!-- nav -->
+  <rect x="16" y="120" width="216" height="42" rx="8" fill="#2C5C50"/>
+  <text x="48" y="146" class="nav-active white">Deep Job Search</text>
+  <text x="48" y="202" class="nav" fill="#DCE9E2">Profile and Criteria</text>
+  <text x="48" y="250" class="nav" fill="#DCE9E2">Search History</text>
+  <text x="48" y="298" class="nav" fill="#DCE9E2">Statistics</text>
+  <line x1="28" y1="892" x2="220" y2="892" stroke="#3C675C"/>
+  <circle cx="44" cy="924" r="16" fill="#D6A84B"/><text x="39" y="929" class="small ink">MA</text>
+  <text x="70" y="921" class="small white">Matthew A.</text><text x="70" y="939" class="caption" fill="#B8CEC3">Account settings</text>
+  <!-- top bar -->
+  <text x="288" y="39" class="label muted">CAREER RESEARCH WORKSPACE</text>
+  <text x="1284" y="39" class="small muted">Searches remaining</text><text x="1395" y="39" class="label ink">3</text>
+  <!-- content header -->
+  <text x="288" y="118" class="h1 ink">Deep Job Search</text>
+  <text x="288" y="143" class="body muted">A focused search for roles that meet the details that matter.</text>
+  <!-- profile trigger -->
+  <rect x="1098" y="93" width="270" height="56" rx="8" class="surface"/>
+  <circle cx="1131" cy="121" r="18" fill="none" stroke="#D8E1DB" stroke-width="5"/>
+  <circle cx="1131" cy="121" r="18" fill="none" stroke="#17634F" stroke-width="5" stroke-linecap="round" stroke-dasharray="89 113" transform="rotate(-90 1131 121)"/>
+  <text x="1121" y="125" class="caption ink">85%</text><text x="1162" y="117" class="h2 ink">Search profile</text><text x="1162" y="135" class="caption muted">Review details</text>
+  <!-- scope card -->
+  <rect x="288" y="176" width="1080" height="102" rx="8" class="surface"/>
+  <text x="312" y="207" class="label muted">CURRENT SEARCH</text><text x="312" y="236" class="h2 ink">Data engineering roles</text>
+  <rect x="500" y="217" width="108" height="26" rx="13" class="moss-soft"/><text x="516" y="234" class="caption success">Remote / Hybrid</text>
+  <rect x="617" y="217" width="85" height="26" rx="13" class="moss-soft"/><text x="635" y="234" class="caption success">Chicago</text>
+  <rect x="711" y="217" width="96" height="26" rx="13" class="moss-soft"/><text x="727" y="234" class="caption success">7 results</text>
+  <text x="312" y="260" class="small muted">Saved guidance will be used for this run.</text>
+  <rect x="1165" y="205" width="179" height="44" rx="8" class="primary"/><text x="1191" y="233" class="button white">Start deep search</text>
+  <!-- guidance -->
+  <rect x="288" y="302" width="650" height="265" rx="8" class="surface"/>
+  <text x="312" y="336" class="h2 ink">Prompt Guidance Sheet</text><text x="312" y="358" class="mono success">SAVED / READY FOR RESEARCH</text>
+  <rect x="783" y="323" width="131" height="32" rx="6" class="raised"/><text x="801" y="344" class="small ink">Review full sheet</text>
+  <line x1="312" y1="378" x2="914" y2="378" class="rule"/>
+  <text x="312" y="406" class="label muted">TARGET</text><text x="312" y="429" class="body ink">Data Engineer, Analytics Engineer</text>
+  <text x="312" y="461" class="label muted">REQUIREMENTS</text><text x="312" y="484" class="body ink">Remote or hybrid · seniority flexible</text>
+  <text x="620" y="406" class="label muted">PREFERENCES</text><text x="620" y="429" class="body ink">Developer tools · health tech</text>
+  <text x="620" y="461" class="label muted">ADDITIONAL CONTEXT</text><text x="620" y="484" class="body ink">Collaborative, product-minded team.</text>
+  <text x="312" y="537" class="caption muted">Generated from your saved profile. Refine it whenever your search changes.</text>
+  <!-- running placeholder -->
+  <rect x="962" y="302" width="406" height="265" rx="8" class="raised"/>
+  <text x="986" y="336" class="h2 ink">Research activity</text><text x="986" y="358" class="mono muted">RUN 2026-08-31-1042</text>
+  <circle cx="998" cy="402" r="6" class="primary"/><text x="1016" y="407" class="body ink">Preparing your search context</text>
+  <circle cx="998" cy="442" r="6" fill="#D8E1DB"/><text x="1016" y="447" class="body muted">Checking sources and fresh postings</text>
+  <circle cx="998" cy="482" r="6" fill="#D8E1DB"/><text x="1016" y="487" class="body muted">Comparing returned roles to your guidance</text>
+  <text x="986" y="535" class="small muted">00:18 elapsed · Safe to navigate away</text>
+  <!-- results placeholder -->
+  <text x="288" y="617" class="h2 ink">Returned jobs</text><text x="409" y="617" class="small muted">Results will appear as research completes.</text>
+  <rect x="288" y="637" width="1080" height="118" rx="8" class="raised"/>
+  <path d="M322 685h240M322 704h190M322 723h216M644 685h230M644 704h180M644 723h210M968 685h180M968 704h230M968 723h170" stroke="#D8E1DB" stroke-width="9" stroke-linecap="round"/>
+  <text x="312" y="780" class="caption muted">Each returned job will include source and posting-date reliability, match context, and an original-posting link.</text>
+  <!-- history -->
+  <text x="288" y="832" class="h2 ink">Recent searches</text><text x="1251" y="832" class="small success">View all history</text>
+  <rect x="288" y="850" width="1080" height="48" rx="7" class="surface"/>
+  <text x="312" y="879" class="body ink">Aug 29, 4:18 PM</text><text x="470" y="879" class="small muted">Analytics roles · Chicago · 5 returned</text><text x="1056" y="879" class="mono success">COMPLETE</text><text x="1235" y="879" class="small success">View results</text>
+  <rect x="288" y="906" width="1080" height="48" rx="7" class="surface"/>
+  <text x="312" y="935" class="body ink">Aug 27, 9:05 AM</text><text x="470" y="935" class="small muted">Broad search · 0 returned</text><text x="1056" y="935" class="mono muted">COMPLETE</text><text x="1249" y="935" class="small success">View run</text>
+  <!-- subtle contour -->
+  <path d="M1310 981c-42-20-91-20-133 0M1330 997c-56-28-120-28-176 0" fill="none" stroke="#D8E1DB" stroke-width="2"/>
+</svg>

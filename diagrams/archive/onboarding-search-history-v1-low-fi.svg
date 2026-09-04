@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1110" viewBox="0 0 1600 1110" role="img" aria-labelledby="title desc">
+  <title id="title">Archived JoBatea onboarding, guidance, and search history v1 exploration</title>
+  <desc id="desc">This intermediate low-fidelity design was superseded by the consolidated v1 workflow reference.</desc>
+  <rect width="1600" height="1110" fill="#edf1ef"/>
+  <rect x="60" y="60" width="1480" height="990" rx="8" fill="#ffffff" stroke="#9aa6a1" stroke-width="2"/>
+  <text x="120" y="150" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#14231f">Archived: onboarding, guidance, and history exploration</text>
+  <text x="120" y="205" font-family="Arial, sans-serif" font-size="22" fill="#31453e">Superseded by the consolidated Deep Job Search workflow v1.</text>
+  <rect x="120" y="270" width="1300" height="550" rx="6" fill="#e7ece9" stroke="#b9c4be"/>
+  <text x="160" y="335" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#14231f">Retained decisions</text>
+  <text x="160" y="390" font-family="Arial, sans-serif" font-size="18" fill="#31453e">- Compact Search profile donut shows advisory completion and reveals details on hover or focus.</text>
+  <text x="160" y="440" font-family="Arial, sans-serif" font-size="18" fill="#31453e">- A generated Prompt Guidance Sheet previews saved criteria plus optional Additional Context.</text>
+  <text x="160" y="490" font-family="Arial, sans-serif" font-size="18" fill="#31453e">- Deep Job Search displays the latest three completed runs.</text>
+  <text x="160" y="540" font-family="Arial, sans-serif" font-size="18" fill="#31453e">- A dedicated Search History screen exposes all immutable runs and their result sets.</text>
+  <text x="160" y="590" font-family="Arial, sans-serif" font-size="18" fill="#31453e">- Repeated postings are suppressed unless authoritative source evidence shows a fresh posting.</text>
+  <text x="160" y="700" font-family="Arial, sans-serif" font-size="18" fill="#31453e">The active reference integrates these decisions with prerequisite setup and returned results.</text>
+  <text x="120" y="955" font-family="Arial, sans-serif" font-size="16" fill="#596a62">See ../deep-job-search-workflow-v1-low-fi.svg for the active low-fidelity handoff.</text>
+</svg>
