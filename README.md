@@ -11,11 +11,10 @@ A full-stack web app for managing AI-driven job searches. Built with:
 
 ## Screenshots
 
-| Deep Job Search | Dashboard | Stats |
+|Login | Deep Job Search | Dashboard | Stats |
 | --- | --- | --- |
-| ![Deep Job Search](docs/screenshots/deep-search.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Stats](docs/screenshots/stats.png) |
+| ![Login](docs/screenshots/login.png)| ![Deep Job Search](docs/screenshots/deep-search.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Stats](docs/screenshots/stats.png) |
 
-*(Images are overwritten in place as the UI evolves — filenames stay fixed, so this section never needs edits.)*
 
 ---
 
